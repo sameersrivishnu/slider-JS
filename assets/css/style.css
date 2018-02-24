@@ -1,0 +1,85 @@
+ h3 {
+     background-color: rgba(132, 164, 197, 0.54);
+     padding: 10px;
+}
+ body {
+     width:auto;
+}
+ .form {
+     padding-left: 1%;
+     padding-right: 1%;
+     width: 100%;
+}
+/* Slideshow container */
+ .slideshow-container {
+     max-width: auto;
+     position: relative;
+}
+/* Next & previous buttons */
+ .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     padding: 16px;
+     margin-top: -22px;
+     color: white;
+     font-weight: bold;
+     font-size: 18px;
+     border-radius: 0 3px 3px 0;
+     background: rgba(0, 0, 0, 0.2)!important;
+}
+ .prev:hover, .next:hover {
+     background-color: grey;
+     text-decoration: none;
+}
+/* Position the "next button" to the right */
+ .next {
+     right: 0;
+     border-radius: 3px 0 0 3px;
+}
+/* On smaller screens, decrease text size */
+ @media screen and (max-width: 700px) {
+     .prev, .next {
+         font-size: 11px;
+         position: relative;
+    }
+     .next {
+         margin-left: 200px;
+    }
+     td {
+         width:auto;
+         display:block;
+    }
+     .pad {
+         position:center;
+    }
+     img {
+         margin-left: 20%;
+         margin-top: 5%;
+         width:60%;
+         height:60%;
+    }
+}
+ li.active {
+     border-bottom: 2px solid #ee7600!important;
+     color: red;
+     font-weight: bold;
+}
+ .checked {
+     color:orange;
+}
+ button {
+     background: linear-gradient(#eead0e,#ee7621);
+     color:white;
+     width:70%;
+     height:10%;
+     border-radius:2px;
+}
+ .pad {
+     padding-left: 30%;
+}
+ img {
+     height:200px;
+     width:200px;
+}

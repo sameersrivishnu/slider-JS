@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Products>
+    <item>
+        <id>blocks0</id>
+        <name>Fastrack blue bag</name>
+        <price>&#x20b9;1500</price>
+        <discount>15% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks1</id>
+        <name>Wedding rings</name>
+        <price>&#x20b9;11999</price>
+        <discount>30% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks2</id>
+        <name>Lovely doll</name>
+        <price>&#x20b9;800</price>
+        <discount>27% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks3</id>
+        <name>Guitar</name>
+        <price>&#x20b9;9500</price>
+        <discount>44% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks4</id>
+        <name>Dress</name>
+        <price>&#x20b9;2500</price>
+        <discount>51% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks5</id>
+        <name>Digital watch</name>
+        <price>&#x20b9;4050</price>
+        <discount>35% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks6</id>
+        <name>Toolkit</name>
+        <price>&#x20b9;372</price>
+        <discount>72% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks7</id>
+        <name>Sony headphone</name>
+        <price>&#x20b9;1800</price>
+        <discount>30% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks8</id>
+        <name>Lenovo laptop</name>
+        <price>&#x20b9;46500</price>
+        <discount>26% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks9</id>
+        <name>Puma shoes</name>
+        <price>&#x20b9;3400</price>
+        <discount>11% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks10</id>
+        <name>Furniture</name>
+        <price>&#x20b9;17500</price>
+        <discount>56% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks11</id>
+        <name>Phillips Trimmer</name>
+        <price>&#x20b9;1680</price>
+        <discount>39% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks12</id>
+        <name>Sony headphones</name>
+        <price>&#x20b9;1600</price>
+        <discount>45% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks13</id>
+        <name>Oxford dictionary</name>
+        <price>&#x20b9;1633</price>
+        <discount>34% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks14</id>
+        <name>MRF bat</name>
+        <price>&#x20b9;3500</price>
+        <discount>22% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks15</id>
+        <name>Nikon camera</name>
+        <price>&#x20b9;40990</price>
+        <discount>31% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks16</id>
+        <name>Pendrive 32GB</name>
+        <price>&#x20b9;1899</price>
+        <discount>52% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks17</id>
+        <name>Iphone</name>
+        <price>&#x20b9;34800</price>
+        <discount>27% off</discount>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>blocks18</id>
+        <name>Wrogn T-shirt</name>
+        <price>&#x20b9;3100</price>
+        <discount>17% off</discount>
+        <availability>Missed</availability>
+        <instock>no</instock>
+    </item>
+    <item>
+        <id>blocks19</id>
+        <name>Powerbank</name>
+        <price>&#x20b9;999</price>
+        <discount>90% off</discount>
+        <availability>Missed</availability>
+        <instock>no</instock>
+    </item>
+    <item>
+        <id>blocks20</id>
+        <name>Fastrack spects</name>
+        <price>&#x20b9;2499</price>
+        <discount>24% off</discount>
+        <availability>Missed</availability>
+        <instock>no</instock>
+    </item>
+    <item>
+        <id>blocks21</id>
+        <name>Prestige cooker</name>
+        <price>&#x20b9;795</price>
+        <discount>70% off</discount>
+        <availability>Missed</availability>
+        <instock>no</instock>
+    </item>
+</Products>
